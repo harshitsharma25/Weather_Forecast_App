@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">152392564419</string>
+    <string name="google_api_key" translatable="false">AIzaSyDlr3ADwCuHoAcYE-YD5HcFn3SGlANXxYA</string>
+    <string name="google_app_id" translatable="false">1:152392564419:android:b14f535cf8baa0e0226c76</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDlr3ADwCuHoAcYE-YD5HcFn3SGlANXxYA</string>
+    <string name="google_storage_bucket" translatable="false">jetareader-815e7.appspot.com</string>
+    <string name="project_id" translatable="false">jetareader-815e7</string>
+</resources>

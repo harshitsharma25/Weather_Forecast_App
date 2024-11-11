@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="a_reader">A. Reader</string>
+    <string name="action">This action is not reversible</string>
+    <string name="already_user">Already User?</string>
+    <string name="app_name">BookReader</string>
+    <string name="book_details">Book Details</string>
+    <string name="books_stats">Books Stats</string>
+    <string name="create_acct">Please enter a valid email and password that is at least 6 characters</string>
+    <string name="currently_reading">Currently Reading</string>
+    <string name="delete">Delete</string>
+    <string name="gcm_defaultSenderId" translatable="false">152392564419</string>
+    <string name="google_api_key" translatable="false">AIzaSyDlr3ADwCuHoAcYE-YD5HcFn3SGlANXxYA</string>
+    <string name="google_app_id" translatable="false">1:152392564419:android:b14f535cf8baa0e0226c76</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDlr3ADwCuHoAcYE-YD5HcFn3SGlANXxYA</string>
+    <string name="google_storage_bucket" translatable="false">jetareader-815e7.appspot.com</string>
+    <string name="login">Login</string>
+    <string name="my_wishlist">My WishList</string>
+    <string name="new_user">New User?</string>
+    <string name="project_id" translatable="false">jetareader-815e7</string>
+    <string name="read_change_yourself">\"Read. change. Yourself\"</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sure">Are you sure you want to delete this book?</string>
+    <string name="update">Update</string>
+    <style name="Theme.BookReader" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

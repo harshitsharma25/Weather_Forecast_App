@@ -1,0 +1,68 @@
+com.example.bookreader.app-browser-1.4.0-0 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\0929257ebed85bc7a890c987da49a87a\transformed\browser-1.4.0\res
+com.example.bookreader.app-navigation-common-2.5.1-1 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\09be4e744f4fee8dbf7b229a6d0d70b0\transformed\navigation-common-2.5.1\res
+com.example.bookreader.app-lifecycle-runtime-release-2 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\11c2eb92fb62ac5a1eb72dba7aaafab2\transformed\lifecycle-runtime-release\res
+com.example.bookreader.app-play-services-basement-18.3.0-3 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\158360fcaba174df9e1ea7499844913a\transformed\play-services-basement-18.3.0\res
+com.example.bookreader.app-lifecycle-viewmodel-release-4 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\19a00dab63850d15bf99c750092c46cd\transformed\lifecycle-viewmodel-release\res
+com.example.bookreader.app-navigation-runtime-ktx-2.5.1-5 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\1bb9df3e4df56827aa47fce533b3f080\transformed\navigation-runtime-ktx-2.5.1\res
+com.example.bookreader.app-customview-poolingcontainer-1.0.0-6 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\1ddf92a86494e3ee10190981547615aa\transformed\customview-poolingcontainer-1.0.0\res
+com.example.bookreader.app-startup-runtime-1.1.1-7 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\1e2cce9321bbff87dcd2e02dc020bc9a\transformed\startup-runtime-1.1.1\res
+com.example.bookreader.app-foundation-release-8 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\27626cfb8471e4ce4f5748bf1e86706c\transformed\foundation-release\res
+com.example.bookreader.app-core-1.13.1-9 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\28796fc9bd6ce81376f15f505836bad8\transformed\core-1.13.1\res
+com.example.bookreader.app-activity-ktx-1.9.1-10 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\2fdf95af8d8ce9e92f66d47622f53558\transformed\activity-ktx-1.9.1\res
+com.example.bookreader.app-firebase-common-21.0.0-11 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\3172e2bd3b27aab4cd965c2b7987a241\transformed\firebase-common-21.0.0\res
+com.example.bookreader.app-activity-1.9.1-12 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\3197f04c7e4516316cf66ea397ab02e6\transformed\activity-1.9.1\res
+com.example.bookreader.app-material-ripple-release-13 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\3fd6385eb2978d1bef137a556d913fe2\transformed\material-ripple-release\res
+com.example.bookreader.app-ui-geometry-release-14 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\4fdd3afabe1968b808851680911f23c1\transformed\ui-geometry-release\res
+com.example.bookreader.app-ui-unit-release-15 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\5435bc939ccb92fde071308ca1b87a06\transformed\ui-unit-release\res
+com.example.bookreader.app-lifecycle-livedata-core-ktx-2.8.4-16 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\552c14e366a08f0171cb2982754aafb7\transformed\lifecycle-livedata-core-ktx-2.8.4\res
+com.example.bookreader.app-ui-test-manifest-1.6.8-17 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\5535a2e93c68966cc7231b244282a97b\transformed\ui-test-manifest-1.6.8\res
+com.example.bookreader.app-lifecycle-livedata-core-2.8.4-18 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\55b106cded1d857faf88d098b0cdcc49\transformed\lifecycle-livedata-core-2.8.4\res
+com.example.bookreader.app-emoji2-1.3.0-19 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\65817f351f88a3d685b9bb3fbce25019\transformed\emoji2-1.3.0\res
+com.example.bookreader.app-savedstate-1.2.1-20 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\69e9b9f98e9d5ad0e3202591c0382d1b\transformed\savedstate-1.2.1\res
+com.example.bookreader.app-ui-release-21 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\6bb816f6bb778fe68226ab13370ef704\transformed\ui-release\res
+com.example.bookreader.app-ui-util-release-22 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\6e345ca25d5bcaf21abdc62e6c5a8c91\transformed\ui-util-release\res
+com.example.bookreader.app-appcompat-resources-1.6.1-23 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\6e415b5673be63f428beb94dcfee9fd1\transformed\appcompat-resources-1.6.1\res
+com.example.bookreader.app-ui-tooling-preview-release-24 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\70e508ec828e0888611c4abc3fb90102\transformed\ui-tooling-preview-release\res
+com.example.bookreader.app-core-ktx-1.13.1-25 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\72788e0e7266135e8a6a75997d455da5\transformed\core-ktx-1.13.1\res
+com.example.bookreader.app-play-services-base-18.0.1-26 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\73a375bb9e34a7f707363f97e0915c61\transformed\play-services-base-18.0.1\res
+com.example.bookreader.app-profileinstaller-1.3.1-27 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\79a928af4fffcb3a2e3f7d644c031be7\transformed\profileinstaller-1.3.1\res
+com.example.bookreader.app-hilt-navigation-1.2.0-28 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\79ada43af43733dc5e2d8bdecb332440\transformed\hilt-navigation-1.2.0\res
+com.example.bookreader.app-material3-release-29 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\7cf5a88b54c3f0655a1f0899e4b18918\transformed\material3-release\res
+com.example.bookreader.app-coil-base-2.4.0-30 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\7fa0e8406cbe7f40eac0ba0c0ad1e162\transformed\coil-base-2.4.0\res
+com.example.bookreader.app-lifecycle-viewmodel-compose-release-31 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\839806c8db465487e540de277b19c646\transformed\lifecycle-viewmodel-compose-release\res
+com.example.bookreader.app-foundation-layout-release-32 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\85f21276c4b79c7c61ff831139bea7df\transformed\foundation-layout-release\res
+com.example.bookreader.app-ui-tooling-data-release-33 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\890775b11a3e4502bc5f43bfe0094525\transformed\ui-tooling-data-release\res
+com.example.bookreader.app-play-services-auth-20.7.0-34 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\890ad112ad3bcccfee09398a313bcf43\transformed\play-services-auth-20.7.0\res
+com.example.bookreader.app-lifecycle-viewmodel-savedstate-2.8.4-35 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\8d37d916e2e8a90dad56947653eee62e\transformed\lifecycle-viewmodel-savedstate-2.8.4\res
+com.example.bookreader.app-navigation-runtime-2.5.1-36 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\8d7bffe46e116fd5cba3e6bad22195b6\transformed\navigation-runtime-2.5.1\res
+com.example.bookreader.app-ui-tooling-release-37 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\916c4a586f46ee16661e566359d9f6b1\transformed\ui-tooling-release\res
+com.example.bookreader.app-lifecycle-livedata-2.8.4-38 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\932599374bf2c41af82e7ac9987ca3fe\transformed\lifecycle-livedata-2.8.4\res
+com.example.bookreader.app-navigation-compose-2.5.1-39 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\93c4837a38c3641be1223f8cf145251c\transformed\navigation-compose-2.5.1\res
+com.example.bookreader.app-animation-core-release-40 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\9b65293c8c8cd3eaa36021e18edf2525\transformed\animation-core-release\res
+com.example.bookreader.app-lifecycle-viewmodel-ktx-2.8.4-41 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\9f78584486d6653534a0fe3a9d2d94a6\transformed\lifecycle-viewmodel-ktx-2.8.4\res
+com.example.bookreader.app-credentials-1.2.0-rc01-42 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\a34110b1d15fc18f02f0cf8724714bff\transformed\credentials-1.2.0-rc01\res
+com.example.bookreader.app-ui-graphics-release-43 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\a5661aac34805009bb652b3202a7f9a0\transformed\ui-graphics-release\res
+com.example.bookreader.app-runtime-saveable-release-44 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\b3c9775f03c2f7738814b1a52258b18d\transformed\runtime-saveable-release\res
+com.example.bookreader.app-credentials-play-services-auth-1.2.0-rc01-45 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\baf09bf461301878768d64cbe9814587\transformed\credentials-play-services-auth-1.2.0-rc01\res
+com.example.bookreader.app-runtime-release-46 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\c13e65c396a5d74e19797c217d20d293\transformed\runtime-release\res
+com.example.bookreader.app-fragment-1.5.1-47 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\c3ad914e9bf7604b2cb434c68401cf15\transformed\fragment-1.5.1\res
+com.example.bookreader.app-annotation-experimental-1.4.0-48 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\cdac969009d4a0bd0fcb1f7baedf1365\transformed\annotation-experimental-1.4.0\res
+com.example.bookreader.app-navigation-common-ktx-2.5.1-49 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\d709fc28dec52df9fb4480ecb622bd43\transformed\navigation-common-ktx-2.5.1\res
+com.example.bookreader.app-core-runtime-2.2.0-50 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\db71c1c87130b90a7f377e16ba563588\transformed\core-runtime-2.2.0\res
+com.example.bookreader.app-lifecycle-process-2.8.4-51 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\ddf5968707ac5cd5160cb68ee047102f\transformed\lifecycle-process-2.8.4\res
+com.example.bookreader.app-material-release-52 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\e2a0b6e3bc413e411691fdbb621eed44\transformed\material-release\res
+com.example.bookreader.app-animation-release-53 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\ea4480e49d0ac557b80741b1f0b26c50\transformed\animation-release\res
+com.example.bookreader.app-activity-compose-1.9.1-54 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\ec0896a2c6f28e8fa727c71306b718ab\transformed\activity-compose-1.9.1\res
+com.example.bookreader.app-material-icons-core-release-55 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\ed445bdcde76ffbb7ec6c8df5f95a74a\transformed\material-icons-core-release\res
+com.example.bookreader.app-material-icons-extended-release-56 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\ee7c85bbdc9adf5924b8f6b9ac89f44c\transformed\material-icons-extended-release\res
+com.example.bookreader.app-ui-text-release-57 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\f901ddb773fb3afd90d894875ee3e67d\transformed\ui-text-release\res
+com.example.bookreader.app-hilt-navigation-compose-1.2.0-58 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\f918aada3e464111720dc61e8e4ddf4f\transformed\hilt-navigation-compose-1.2.0\res
+com.example.bookreader.app-savedstate-ktx-1.2.1-59 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\fabc54271cfe84d2193360af5c17007d\transformed\savedstate-ktx-1.2.1\res
+com.example.bookreader.app-lifecycle-runtime-ktx-release-60 C:\Users\HARSHIT SHARMA\.gradle\caches\transforms-4\fb843d94c81066f5eef1e87a353911f9\transformed\lifecycle-runtime-ktx-release\res
+com.example.bookreader.app-res-61 D:\Android_Dev\BookReader\app\build\generated\res\processDebugGoogleServices
+com.example.bookreader.app-resValues-62 D:\Android_Dev\BookReader\app\build\generated\res\resValues\debug
+com.example.bookreader.app-packageDebugResources-63 D:\Android_Dev\BookReader\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.bookreader.app-packageDebugResources-64 D:\Android_Dev\BookReader\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.bookreader.app-debug-65 D:\Android_Dev\BookReader\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.bookreader.app-debug-66 D:\Android_Dev\BookReader\app\src\debug\res
+com.example.bookreader.app-main-67 D:\Android_Dev\BookReader\app\src\main\res
